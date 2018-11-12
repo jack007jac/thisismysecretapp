@@ -1,0 +1,12 @@
+<?xml version="1.0"?> 
+<sharpUpdate> 
+    <update> 
+        <version>4.2.2.0</version> 
+        <url>C:\Users\jack\OneDrive\MP3Tool\MP3Tool\bin\Debug\1KINGTOOL4.exe</url> 
+        <filePath>./1KINGTOOL4.exe</filePath>
+        <md5>AC7CD9C931D727D3C5274150F36246AB</md5>
+        <description>Update: 12/11/2018:
+        1. Updated a label.</description> 
+        <launchArgs></launchArgs> 
+    </update>
+ </sharpUpdate>
